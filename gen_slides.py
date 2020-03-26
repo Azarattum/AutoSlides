@@ -18,9 +18,9 @@ parser = argparse.ArgumentParser(
     description="Generates a history presentation.")
 parser.add_argument("term", type=str, help="term to search")
 parser.add_argument(
-    "--search", help="additional search parameters", default="")
+    "--search", "-s", help="additional search parameters", default="")
 parser.add_argument(
-    "--author", help="add the author of presentation", default="")
+    "--author", "-a", help="add the author of presentation", default="")
 parser.add_argument(
     "--no-best", help="exclude the best defenition slide", action="store_true", default=False)
 parser.add_argument(
