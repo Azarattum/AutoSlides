@@ -1,5 +1,5 @@
 # Auto Slides
-Script for generating presentation slides from a given term
+Script for generating presentation slides from a given topic.
 
 ## Features:
   - Finds the term defenitions
