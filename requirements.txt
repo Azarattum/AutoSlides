@@ -9,6 +9,6 @@ pipreqs==0.4.12
 pycodestyle==2.5.0
 python-pptx==0.6.18
 requests==2.31.0
-urllib3==1.26.5
+urllib3==1.26.17
 XlsxWriter==1.2.8
 yarg==0.1.9
